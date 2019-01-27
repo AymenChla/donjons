@@ -1,0 +1,9 @@
+(jbuild_version 1)
+
+(library
+ ((name        projet_donjon)
+  (inline_tests)
+  (libraries (ocamlgraph))
+  (modules (projet_donjon  test_c test_ci test_i test_ii))
+  ))
+

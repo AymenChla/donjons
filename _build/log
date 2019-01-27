@@ -1,0 +1,4 @@
+# jbuilder utop
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/dunefaab80.output 2> /dev/null
+$ /usr/bin/ocamlc -config > /tmp/dune0e2dc2.output

@@ -1,0 +1,14 @@
+(** @canonical Projet_donjon.Projet_donjon *)
+module Projet_donjon = Projet_donjon
+
+(** @canonical Projet_donjon.Test_c *)
+module Test_c = Projet_donjon__Test_c
+
+(** @canonical Projet_donjon.Test_ci *)
+module Test_ci = Projet_donjon__Test_ci
+
+(** @canonical Projet_donjon.Test_i *)
+module Test_i = Projet_donjon__Test_i
+
+(** @canonical Projet_donjon.Test_ii *)
+module Test_ii = Projet_donjon__Test_ii

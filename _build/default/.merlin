@@ -1,0 +1,5 @@
+B /home/freenemya/.opam/system/lib/ocamlgraph
+B _build/default/.projet_donjon.objs
+S /home/freenemya/.opam/system/lib/ocamlgraph
+S .
+FLG -open Projet_donjon__ -w -40
